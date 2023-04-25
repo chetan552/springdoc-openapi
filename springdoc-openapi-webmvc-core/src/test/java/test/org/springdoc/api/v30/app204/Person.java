@@ -1,7 +1,7 @@
 package test.org.springdoc.api.v30.app204;
 
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.Size;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.Size;
 
 public class Person {
 	private long id;

@@ -20,7 +20,7 @@ package test.org.springdoc.api.app105.api;
 
 import java.util.Map;
 
-import javax.validation.ConstraintViolationException;
+import jakarta.validation.ConstraintViolationException;
 
 import org.springframework.boot.web.error.ErrorAttributeOptions;
 import org.springframework.boot.web.servlet.error.ErrorAttributes;

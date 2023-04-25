@@ -24,8 +24,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-import javax.validation.Valid;
-import javax.validation.constraints.Size;
+import jakarta.validation.Valid;
+import jakarta.validation.constraints.Size;
 
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.enums.Explode;

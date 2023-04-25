@@ -1,6 +1,6 @@
 package test.org.springdoc.api.app121;
 
-import javax.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotBlank;
 
 /**
  * The type Inherited request params.

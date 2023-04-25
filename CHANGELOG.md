@@ -1825,7 +1825,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### Added
 
-- #21 - Support of @javax.validation.Size specs with (maximum instead of maxLength)
+- #21 - Support of @jakarta.validation.Size specs with (maximum instead of maxLength)
 - Any @GetMapping parameters should be marked as required, even if @RequestParam missing
   #14
 - #17 - Handling @parameter in @operation with proper schema

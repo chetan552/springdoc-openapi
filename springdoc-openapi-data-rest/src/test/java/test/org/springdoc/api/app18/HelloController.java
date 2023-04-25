@@ -1,7 +1,7 @@
 package test.org.springdoc.api.app18;
 
 import javax.servlet.http.HttpServletRequest;
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 
 import io.swagger.v3.oas.annotations.Operation;
 import org.springdoc.api.annotations.ParameterObject;

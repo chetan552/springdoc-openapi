@@ -20,7 +20,7 @@ package test.org.springdoc.api.app7;
 
 import java.util.List;
 
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotNull;
 
 import org.springdoc.api.annotations.ParameterObject;
 

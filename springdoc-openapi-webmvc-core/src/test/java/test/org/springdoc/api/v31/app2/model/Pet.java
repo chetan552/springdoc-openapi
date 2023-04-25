@@ -25,7 +25,7 @@ package test.org.springdoc.api.v31.app2.model;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotNull;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;

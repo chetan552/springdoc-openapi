@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.springdoc</groupId>
 	<artifactId>springdoc-openapi</artifactId>
-	<version>1.7.0</version>
+	<version>1.8.0</version>
 	<packaging>pom</packaging>
 	<name>Spring openapi documentation</name>
 	<description>Spring openapi documentation</description>
@@ -78,6 +78,7 @@
 		<spring-cloud-function.version>3.2.4</spring-cloud-function.version>
 		<dependency-check.version>8.2.1</dependency-check.version>
 		<spring-security-oauth2-authorization-server.version>0.4.1</spring-security-oauth2-authorization-server.version>
+		<jakarta.validation.version>3.0.2</jakarta.validation.version>
 	</properties>
 
 	<dependencyManagement>

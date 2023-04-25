@@ -2,8 +2,8 @@ package test.org.springdoc.api.app18;
 
 import java.time.LocalDate;
 
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
 
 import io.swagger.v3.oas.annotations.Parameter;
 

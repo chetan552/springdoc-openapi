@@ -25,7 +25,7 @@ package test.org.springdoc.api.v30.app105.api.pet;
 import java.util.List;
 import java.util.Optional;
 
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 
 import test.org.springdoc.api.v30.app105.api.ApiUtil;
 import test.org.springdoc.api.v30.app105.model.ModelApiResponse;

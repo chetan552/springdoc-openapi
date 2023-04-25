@@ -1,6 +1,6 @@
 package test.org.springdoc.api.app5.controller;
 
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;

@@ -20,7 +20,7 @@ package test.org.springdoc.api.app27;
 
 import java.util.List;
 
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotNull;
 
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;

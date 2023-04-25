@@ -18,8 +18,8 @@
 
 package test.org.springdoc.ui.app16;
 
-import javax.validation.Valid;
-import javax.validation.constraints.Size;
+import jakarta.validation.Valid;
+import jakarta.validation.constraints.Size;
 
 import org.springdoc.core.GroupedOpenApi;
 

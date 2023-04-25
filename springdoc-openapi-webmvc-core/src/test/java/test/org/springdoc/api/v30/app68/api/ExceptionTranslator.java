@@ -24,7 +24,7 @@ package test.org.springdoc.api.v30.app68.api;
 
 import java.util.Map;
 
-import javax.validation.ConstraintViolationException;
+import jakarta.validation.ConstraintViolationException;
 
 import org.springframework.boot.web.error.ErrorAttributeOptions;
 import org.springframework.boot.web.servlet.error.ErrorAttributes;

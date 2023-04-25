@@ -2,7 +2,7 @@ package test.org.springdoc.api.app5.entities;
 
 import java.util.UUID;
 
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotNull;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

@@ -18,7 +18,7 @@
 
 package test.org.springdoc.api.app92;
 
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotNull;
 
 import io.swagger.v3.oas.models.parameters.Parameter;
 

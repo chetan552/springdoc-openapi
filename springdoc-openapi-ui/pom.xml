@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>org.springdoc</groupId>
 		<artifactId>springdoc-openapi</artifactId>
-		<version>1.7.0</version>
+		<version>1.8.0</version>
 	</parent>
 	<artifactId>springdoc-openapi-ui</artifactId>
 	<dependencies>
@@ -16,6 +16,12 @@
 		<dependency>
 			<groupId>jakarta.servlet</groupId>
 			<artifactId>jakarta.servlet-api</artifactId>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>jakarta.validation</groupId>
+			<artifactId>jakarta.validation-api</artifactId>
+			<version>${jakarta.validation.version}</version>
 			<scope>provided</scope>
 		</dependency>
 		<!-- swagger-ui dependencies -->

@@ -18,10 +18,10 @@
 
 package test.org.springdoc.api.app18;
 
-import javax.validation.constraints.NegativeOrZero;
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.NotEmpty;
-import javax.validation.constraints.PositiveOrZero;
+import jakarta.validation.constraints.NegativeOrZero;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotEmpty;
+import jakarta.validation.constraints.PositiveOrZero;
 
 import io.swagger.v3.oas.annotations.Parameter;
 

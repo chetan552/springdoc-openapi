@@ -18,7 +18,7 @@
 
 package test.org.springdoc.api.app66.controller;
 
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
